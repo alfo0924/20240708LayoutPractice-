@@ -124,16 +124,16 @@
         android:text="忘記密碼?"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="308dp" />
+        tools:layout_editor_absoluteY="253dp" />
 
     <LinearLayout
         android:layout_width="0dp"
         android:layout_height="81dp"
         android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.666"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="210dp">
+        tools:layout_editor_absoluteY="313dp">
 
         <Button
             android:id="@+id/login"
